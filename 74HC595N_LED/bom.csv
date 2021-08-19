@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," 8-Bit Shift Register"
+"D1, D3",2,"Red LED"
+"D2, D4",2,"Yellow LED"
+"D5, D6",2,"Orange LED"
+"D7, D8",2,"Green LED"
+"Rpot1",1,"250 kΩ Potentiometer"
+"R1, R2, R3, R4, R5, R6, R7, R8",8,"220 Ω Resistor"
