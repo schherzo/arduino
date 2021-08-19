@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"PIRPIR2 Exit",1,"63.0947821100915 , -255.3894634600952 , -259.4605504587154  PIR Sensor"
+"PIRPIR1 Entry",1,"20.882339449541064 , -207.9825500472028 , -237.53990825688058  PIR Sensor"
+"MAutomatic Door",1," DC Motor"
+"Digit1",1,"Anode 7 Segment Display"
+"R1",1,"1 kΩ Resistor"

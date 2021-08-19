@@ -1,0 +1,4 @@
+This system consist of two PIR sensor, one on the entry another on exit side. 
+For every human detection on entry side increment count value and every human detection on exit side decrement count value. 
+Whenever human presence detected on entry/exit open the automatic door (DC motor) for 5 seconds and close automatically. Use one 7-segment to display number of human inside the room. 
+Also, ensure always maximum number of human present inside the room must be 9. Whenever any attempt made to enter the room when number of human count is already 9 inside the room then switch ON the buzzer. 
