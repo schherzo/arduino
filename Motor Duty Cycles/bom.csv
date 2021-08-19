@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"SW1",1," DIP Switch SPST x 4"
+"M1",1," DC Motor"
+"U2",1,"100 ms Oscilloscope"
+"R1, R2, R3, R4",4,"330 Ω Resistor"
