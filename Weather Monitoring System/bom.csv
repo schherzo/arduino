@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R1",1," Photoresistor"
+"R2",1,"330 Ω Resistor"
+"U2",1," Temperature Sensor [TMP36]"
+"U3",1," LCD 16 x 2 "
+"Rpot1, Rpot2",2,"250 kΩ Potentiometer"
+"R3",1,"220 Ω Resistor"
+"GAS1",1," Gas Sensor"
+"R4",1,"4.7 kΩ Resistor"
