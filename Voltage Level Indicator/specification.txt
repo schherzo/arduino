@@ -1,0 +1,5 @@
+If the voltage is between 0 to 1V glow LED1
+If the voltage is between 1 to 2V glow LED1 and LED2
+If the voltage is between 2 to 3V glow LED1 to LED3
+If the voltage is between 3 to 4V glow LED1 to LED4
+If the voltage is between 4 to 5V glow LED1 to LED5
