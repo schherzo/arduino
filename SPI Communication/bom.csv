@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"UMaster, USlave",2," Arduino Uno R3"
+"U3",1," LCD 16 x 2 "
+"R1",1,"220 Ω Resistor"
+"D1",1,"Blue LED"
+"D2",1,"Yellow LED"
+"D3",1,"Orange LED"
+"D4",1,"Red LED"
+"R2, R3, R4, R5",4,"1 kΩ Resistor"
+"KEYPAD1",1," Keypad 4x4"

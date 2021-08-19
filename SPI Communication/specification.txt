@@ -1,0 +1,3 @@
+Configure one of the Arduino as master and other as slave. 
+Master is interfaced with 4x4 keypad and slave is connected with 16x2 LCD. 
+Establish a SPI communication between master and slave display each key press on the master to the slave LCD.
